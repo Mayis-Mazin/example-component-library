@@ -63,7 +63,8 @@
               "projects/example-component-library-app/src/assets"
             ],
             "styles": [
-              "projects/example-component-library-app/src/styles.scss"
+              "projects/example-component-library-app/src/styles.scss",
+              "node_modules/ng-zorro-antd/ng-zorro-antd.min.css"
             ],
             "scripts": []
           },
